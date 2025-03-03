@@ -26,3 +26,7 @@ C++ (Arduino IDE) – Programming language for coding the microcontroller.
 LiquidCrystal_I2C Library – For interfacing the I2C LCD display.
 Digital Input/Output – Button and LED control using Arduino’s GPIO pins.
 
+
+***output***
+![Image](https://github.com/user-attachments/assets/2bddebf7-bd80-4dd2-9055-99bbcd9b9e24)
+
